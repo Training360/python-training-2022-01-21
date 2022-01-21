@@ -1,0 +1,12 @@
+.mypy_cache
+.pytest_cache
+.scannerwork
+.vscode
+__pycache__
+build
+dist
+hellosamples.egg-info
+venv
+.coverage
+coverage.xml
+pylint-report.txt

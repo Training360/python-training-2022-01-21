@@ -1,0 +1,4 @@
+src\hellosamples\hello.py:5:1: E302 expected 2 blank lines, found 1
+src\hellosamples\hello.py:5:19: E231 missing whitespace after ':'
+src\hellosamples\hello.py:9:1: E302 expected 2 blank lines, found 1
+src\hellosamples\hello.py:17:1: E305 expected 2 blank lines after class or function definition, found 1
